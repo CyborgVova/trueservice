@@ -1,6 +1,0 @@
-version: "3"
-env: "local"
-storage_path: "./storage/storage.sql"
-http_server:
-  host: "localhost"
-  port: "8080"
