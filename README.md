@@ -1,3 +1,3 @@
-### True service on Go (clean architecture)
+### True service on Go
 
-- Tree directory
+- Rule clean architecture
